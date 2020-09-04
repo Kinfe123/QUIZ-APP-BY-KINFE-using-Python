@@ -1,0 +1,2 @@
+# QUIZ-APP-BY-KINFE-using-Python
+This is a simple Quiz app that have a basics of using Control Flow statements.....And also Other thing that you should have to illustrate ...In this Quiz app...I recommend You First to run the file and take all of the 10 quiz with in 1 bonus..And At the End of this question...You will get the calculated result  , mark in persent and also if you pass to it or not....So I hope you enjoyed by this app..!!!!
